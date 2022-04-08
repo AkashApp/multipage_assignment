@@ -9,7 +9,7 @@ export const Home = () => {
     navigate("/registration/one");
   };
   const UserClick = () => {
-    navigate("/registration/user");
+    navigate("/registration/users");
   };
   return (
     <div className="Main_Home">
