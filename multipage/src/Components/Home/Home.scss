@@ -1,0 +1,42 @@
+.Main_Home{
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    margin:0;
+    padding:0;
+
+    .Nav{
+        width: 100%;
+        height: 60px;
+        display: flex;
+        align-items: center;
+        justify-content:space-evenly;
+        background-color: cadetblue;
+
+        .Login{
+            width:150px;
+            height: 25px;
+            background-color:rgb(148, 110, 110);
+            border: none;
+            transition: all 3s ease;
+            
+            &:hover{
+                background-color:white;
+                color: rgb(148, 110, 110);
+            }
+        }
+
+        .User_list{
+            width:150px;
+            height: 25px;
+            background-color:rgb(148, 110, 110);
+            border: none;
+            transition: all 3s ease;
+            
+            &:hover{
+                background-color:white;
+                color: rgb(148, 110, 110);
+            }
+        }
+    }
+}

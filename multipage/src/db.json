@@ -1,0 +1,31 @@
+{
+  "registration": [
+    {
+      "Name": "Akash",
+      "Age": "25",
+      "Dob": "1997-10-27",
+      "States": "Maharashtra",
+      "Add": "ST1 Ekdant apartment",
+      "Pincode": "415001",
+      "id": 1
+    },
+    {
+      "Name": "Aniket",
+      "Age": "22",
+      "Dob": "2000-09-14",
+      "States": "Maharashtra",
+      "Add": "jambh",
+      "Pincode": "00000",
+      "id": 2
+    },
+    {
+      "Name": "Abhishek",
+      "Age": "22",
+      "Dob": "2000-09-05",
+      "States": "Maharashtra",
+      "Add": "defence colony satara",
+      "Pincode": "415002",
+      "id": 3
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+.Main_User{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    .Home_But{
+        
+        button{
+            width: 150px;
+        }
+    }
+    .All_Users{
+        width: 90%;
+        padding: 20px;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        flex-wrap: wrap;
+
+        div{
+            border: 1px solid black;
+            padding: 10px;
+        }
+        
+    }
+}
